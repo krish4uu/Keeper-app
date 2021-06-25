@@ -4,7 +4,7 @@
 *  The app uses react as a front-end framework.
 *  The material-ui is also used in the app.
 *  Icon of header and buttons are taken form material-ui-icons.
-*  The app does not contain any back-end yet.
+
 
 
 # Screenshots
